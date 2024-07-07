@@ -80,7 +80,7 @@ In DOSBox, navigate to the directory where the bubble.com file is located using 
 Run the game by typing the name of the .com file (without the file extension):
 
 # Author
-- Muhammad Anique
+- Kaashaan Karim
 
 Feel free to modify and enhance the game and share your own version on GitHub!
 
